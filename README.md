@@ -14,7 +14,7 @@ Once complete, the generated codebase (including all source files) should be ema
 
 ## Objective
 
-At the DataShed we process a lot of data, sometimes this data can arrive in many formats and at varying levels of data quality. Given a subset of personal data --> [link](profile-data/DataShed_Technical_Test.csv), you are required to create a simple application meets the below user story and acceptance criteria.
+At the DataShed we process a lot of data, sometimes this data can arrive in many formats and at varying levels of data quality. Given a subset of personal data --> [link](profile-data/DataShed_Technical_Test.csv), you are required to create a simple application that meets the below user story and acceptance criteria.
 
 ### Story
 
