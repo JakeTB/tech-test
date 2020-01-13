@@ -8,9 +8,9 @@ This document contains a set of instructions for engineering candidates to follo
 
 The completion of this technical test should result in the creation of a fully functioning application that meets the requirements outlined by the below objective. No constraints are imposed with regards to the framework or programming language chosen, nor is it expected that the assessment is to be completed within any set time frame. 
 
-If the candidate requires any further information or encounters any issues in completing this assessment, please contact recruitment@thedatashed.co.uk  
+If the candidate requires any further information or encounters any issues in completing this assessment, please contact talent@thedatashed.co.uk  
 
-Once complete, the generated codebase (including all source files) should be emailed to recruitment@thedatashed.co.uk, the source code should not be made available via a public code repository (E.G. github.com).
+Once complete, the generated codebase (including all source files) should be emailed to talent@thedatashed.co.uk, the source code should not be made available via a public code repository (E.G. github.com).
 
 ## Objective
 
